@@ -45,3 +45,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aztigIce&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+---
+
+<p align="center">
+  <img src="https://media1.tenor.com/m/QX_tzgoNqYUAAAAd/niko-oneshot.gif" alt="Niko from OneShot ballin'" width="150">
+</p>
