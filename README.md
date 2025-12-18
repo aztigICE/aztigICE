@@ -48,7 +48,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aztigIce&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### // THE : GANG
+### // CPE : GANG
 
 <table align="center" border="0" cellpadding="0" cellspacing="0" style="border: none; margin: 0 auto; padding: 0;">
   
