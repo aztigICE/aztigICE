@@ -9,8 +9,7 @@
 
 ---
 
-Third-year Computer Engineering student based in Davao, PH. I like building the parts people don't see — backends, models, and systems — and I'm slowly teaching myself game dev on the side.
-
+Third-year Computer Engineering student based in Davao, PH. I like building the parts people don't see. Self taught game dev on the side.
 Off the keyboard: 🎸 guitar · 🏋️ gym · 🎮 games
 
 ### Currently building
