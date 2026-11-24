@@ -16,7 +16,7 @@ Off the keyboard: 🎸 guitar · 🏋️ gym · 🎮 games
 ### Currently building
 
 - 🛡️ **NetGuard** — web-based network intrusion detection using a Random Forest trained on NSL-KDD, served with Flask
-- 📡 **[Signal Decay](https://github.com/aztigICE/Signal-Decay)** <sub>(working title)</sub> — a first-person signal-hunting game inspired by *Voices of the Void*
+- 📡 **[Signal Decay](https://github.com/aztigICE/Signal-Decay)** <sub>(working title + barely past setup)</sub> — a first-person signal-hunting game inspired by *Voices of the Void*
 - ☕ **Cafe app** — a map-based social app for logging cafes; I'm handling the backend
 
 ### Stack
